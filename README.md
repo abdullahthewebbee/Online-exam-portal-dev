@@ -206,20 +206,6 @@ Use following paths
   <li> add more features </li>
   </ul>
  
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chintan-golakiya/online-exam-portal" />
-</a>
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-
-
 
 <!-- License -->
 ## :warning: License
@@ -230,7 +216,7 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Muhammad Abdullah - [@_chint4n_](https://www.linkedin.com/in/muhammad-abdullah-18a636221/_) - abdullahthewebbee@gmail.com
+Muhammad Abdullah - [@Linkedin](https://www.linkedin.com/in/muhammad-abdullah-18a636221/_) - abdullahthewebbee@gmail.com
 
 
 <!-- Acknowledgments -->
