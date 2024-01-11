@@ -14,9 +14,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 <h4>
     <a href="https://chintan-golakiya.github.io/online-exam-portal-frontend/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Request Feature</a>
   </h4>
 </div>
 
